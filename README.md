@@ -1,5 +1,4 @@
 # CloudUploader-CLI
-Capstone Project: CloudUploader CLI
 
 CloudUploader is a simple command-line interface (CLI) tool designed to upload files and directories to AWS S3. This project is part of the Learn to Cloud guide’s Phase 1 capstone project, focusing on Linux Bash, Networking, and AWS S3.
 
